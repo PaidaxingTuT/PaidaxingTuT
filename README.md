@@ -55,4 +55,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PaidaxingTuT&label=PROFILE+VIEWS&color=blueviolet&style=flat-square" alt="Visitor Count" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/感谢你的访问-愿你每天进步！-FFD700?style=for-the-badge&logoColor=black&labelColor=332200&color=FFD700" />
 </p>
