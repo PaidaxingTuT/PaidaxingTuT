@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
 
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/SSH-24292e?style=flat-square&logo=terminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terminal-24292e?style=flat-square&logo=terminal&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 </p>
 
