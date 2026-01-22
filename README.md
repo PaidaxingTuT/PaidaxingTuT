@@ -1,13 +1,13 @@
+
+##Hi there 👋
+
+---
+
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=30&pause=1000&color=5D3FD3&center=true&vCenter=true&width=435&lines=Hi+There!+👋;I+am+AmaneKanata" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=30&pause=1000&color=5D3FD3&center=true&vCenter=true&width=435&lines=I am Paidaxing" alt="Typing SVG" />
   </a>
 </h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35Mv/giphy.gif" width="28" /> 
-  <em>"Glory to Mankind."</em>
-</p>
 
 ---
 
