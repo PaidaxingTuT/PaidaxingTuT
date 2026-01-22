@@ -11,18 +11,18 @@
 
 ---
 
-### 👨‍💻 关于我 (About Me)
+### About Me
 
 网络工程在读学生，正在构建自己的数字世界。
 
-- 🎓 专业: **Network Engineering**
+- 🎓 专业: **网络工程g**
 - 💻 正在钻研: **JavaWeb**, **C++ Language**, **Database Systems**
 - 🛠️ 近期目标: 熟练掌握后端开发，并完善我的个人 PC setup。
 - ❤️ Amanekanata
 
 ---
 
-### 🛠️ 技术栈 (Tech Stack)
+### Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
@@ -40,7 +40,7 @@
 
 ---
 
-### 📊 GitHub 统计 (Stats)
+### Stats
 
 <div align="center">
   <p>
