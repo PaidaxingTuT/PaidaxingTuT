@@ -1,28 +1,18 @@
 
 ## Hi there 👋
 
----
-
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=30&pause=1000&color=5D3FD3&center=true&vCenter=true&width=435&lines=I+am+Paidaxing" alt="Typing SVG" />
-  </a>
-</h1>
-
----
-
 ### About Me
 
-网络工程在读学生，正在构建自己的数字世界。
+LCU网络工程在读学生
 
 - 💻 学习中: **SSM**，**前端开发**
-- ❤️ Amanekanata
+- ❤️ Love For AmaneKanata
 
 ---
 
 ### Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -38,19 +28,6 @@
 </p>
 
 ---
-
-### Stats
-
-<div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=PaidaxingTuT&show_icons=true&locale=cn&theme=tokyonight&count_private=true&hide_border=true" alt="Stats" width="48%"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaidaxingTuT&layout=compact&locale=cn&theme=tokyonight&hide=html,css&hide_border=true" alt="Languages" width="43%"/>
-  </p>
-</div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PaidaxingTuT&theme=tokyonight&locale=zh_Hans&hide_border=true" alt="Streak" />
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/感谢你的访问-愿你每天进步！-FFD700?style=for-the-badge&logoColor=black&labelColor=332200&color=FFD700" />
