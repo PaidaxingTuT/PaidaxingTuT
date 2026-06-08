@@ -14,14 +14,16 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           
-
           SHOW_LINES_OF_CODE: "True" 
+          SHOW_TOTAL_CODE_TIME: "True"
           
-          SHOW_COMMIT: "False"             # 关闭作息图
-          SHOW_PROFILE_VIEWS: "False"      # 关闭访客量统计
-          SHOW_LANGUAGE: "False"           # 关闭常用语言排行榜
-          SHOW_OS: "False"                 # 关闭操作系统使用占比
-          SHOW_PROJECTS: "False"           # 关闭项目耗时统计
-          SHOW_TIMEZONE: "False"           # 关闭时区信息
-          SHOW_LANGUAGE_PER_REPO: "False"  # 关闭各仓库语言统计
+          SHOW_SHORT_INFO: "False" 
+          SHOW_UPDATED_DATE: "False"
+          SHOW_COMMIT: "False"             
+          SHOW_PROFILE_VIEWS: "False"      
+          SHOW_LANGUAGE: "False"           
+          SHOW_OS: "False"                 
+          SHOW_PROJECTS: "False"           
+          SHOW_TIMEZONE: "False"           
+          SHOW_LANGUAGE_PER_REPO: "False"
   
