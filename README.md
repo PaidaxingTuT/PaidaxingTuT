@@ -3,17 +3,13 @@
 [![header]](https://github.com/PaidaxingTuT)
 
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-281%20hrs%2052%20mins-blue?style=flat)
+<!-- Profile View 访客数 -->
+<img alt="Profile View" src="https://komarev.com/ghpvc/?username=PaidaxingTuT&style=flat-square"/>
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-50.91%20thousand%20lines%20of%20code-blue?style=flat)
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/PaidaxingTuT/PaidaxingTuT/main/assets/bar_graph.png)
-
-
-<!--END_SECTION:waka-->
+<!-- WakaTime Total Time 总时长 -->
+<a href="https://wakatime.com/@1bbf0cea-16ae-4ace-80e3-a18dc4920518">
+  <img alt="Total time coded" src="https://wakatime.com/badge/user/1bbf0cea-16ae-4ace-80e3-a18dc4920518.svg?style=flat-square"/>
+</a>
 
 </div>
 
