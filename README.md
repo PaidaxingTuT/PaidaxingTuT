@@ -36,7 +36,7 @@
 ### 🛠 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,python,langchain,linux,android,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,python,linux,vscode" />
 </div>
 
 ---
@@ -46,6 +46,11 @@
 ---
 
 ## 📬 Contact Me
+<div align="left">
+                <span>QQ : 428488368</span> <br />
+                <span>Email : </span> <a href="mailto:paidaxing_tut@outlook.com">paidaxing_tut@outlook.com</a> <br />
+                <span>Website : </span> <a href="https://www.pdxstudio.site/">www.pdxstudio.site</a> <br />
+</div>
 
 <div align="center">
     <span>GitHub : </span> <a href="https://github.com/PaidaxingTuT">@PaidaxingTuT</a> <br />
