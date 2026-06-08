@@ -18,6 +18,7 @@ jobs:
           # 仅开启总行数与总时长
           SHOW_LINES_OF_CODE: "True" 
           SHOW_TOTAL_CODE_TIME: "True"
+          SHOW_PROFILE_VIEWS: "False"
           
           # 设置语言为中文
           LOCALE: "zh"
@@ -29,7 +30,6 @@ jobs:
           SHOW_SHORT_INFO: "False"         # 关闭账号简略信息
           SHOW_UPDATED_DATE: "False"       # 关闭更新日期
           SHOW_COMMIT: "False"             # 关闭作息时间统计
-          SHOW_PROFILE_VIEWS: "False"      # 关闭访客统计
           SHOW_LANGUAGE: "False"           # 关闭语言统计
           SHOW_OS: "False"                 # 关闭操作系统统计
           SHOW_PROJECTS: "False"           # 关闭项目统计
