@@ -54,7 +54,6 @@
 
 **Website:** [www.pdxstudio.site](https://www.pdxstudio.site/)
 
-**GitHub:** [@PaidaxingTuT](https://github.com/PaidaxingTuT)
 
 ---
 
