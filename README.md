@@ -19,7 +19,7 @@
 
 - **派大星工作室** 创建者
 - 专注于工程落地与业务逻辑
-- Python 后端 / AI Agent / LLM / RAG
+- Go / AI Agent / LLM 
 
 ---
 
@@ -39,7 +39,7 @@
 ## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,vscode,java,spring,mysql,linux,github,git,docker"/>
+  <img src="https://skillicons.dev/icons?i=python,vscode,go,redis,mysql,linux,github,git,docker"/>
 </div>
 
 ---
