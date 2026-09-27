@@ -73,9 +73,7 @@
 
 <div align="center">
 
-```go
-Agent.Make(ideas,real)
-```
+<pre><code>Agent.Make(ideas,real)</code></pre>
 
 Designed with ❤️ by [派大星](https://github.com/PaidaxingTuT)
 
