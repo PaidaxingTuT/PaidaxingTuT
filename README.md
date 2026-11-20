@@ -64,7 +64,7 @@
 
  **Email:** [paidaxing_tut@outlook.com](mailto:paidaxing_tut@outlook.com)
 
- **Website:** [pdxstudio.top](https://pdxstudio.top/)
+ **Website:** [www.pdxstudio.top](https://www.pdxstudio.top/)
 
 </div>
 
